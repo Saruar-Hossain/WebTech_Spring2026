@@ -1,0 +1,59 @@
+
+
+
+
+h1 {
+    color: brown;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+#main-title {
+    text-align: center;
+}
+
+#email {
+    font-weight: bold;
+    color: blue;
+}
+
+
+.section-title {
+    color: coral;
+}
+
+.normal-text {
+    color: green;
+}
+
+
+p.normal-text {
+    font-style: italic;
+}
+
+
+h1, h2, p {
+    font-style: italic;
+}
+
+
+.parent-box {
+    position: relative;
+    margin-top: 20px;
+}
+
+.btn1 {
+    padding: 10px 40px;
+    position: absolute;
+    z-index: 1;
+}
+
+.btn2 {
+    padding: 10px 40px;
+    position: absolute;
+    left: 30px;
+    z-index: 2;
+}
