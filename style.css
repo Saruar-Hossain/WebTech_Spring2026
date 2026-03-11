@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+.calculator{
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#display{
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    text-align: right;
+}
+
+button{
+    width: 55px;
+    height: 40px;
+    font-size: 18px;
+    background-color: lightblue;
+}
+
+
+.clear{
+    background-color: orange;
+}
+
+
+.ac{
+    background-color: red;
+    color: white;
+}
+
+
+.zero{
+    width: 230px;
+}
